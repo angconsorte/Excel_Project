@@ -57,25 +57,26 @@ A model-driven workbook using **Power Query** to clean/shape the data and **Powe
 
 
 ### 1) Project A — Salary Explorer (Overview)
-![Salary Dashboard](/images/project_1.1.png)  
+![Salary Dashboard](/Images/project_1.1.png)  
 
 ### 2) Project B — Skills and Salary by Job Title
-![Power Query ETL](/images/project_2.1.png)  
+![Power Query ETL](/Images/project_2.1.png)  
 
 
 ### 3) Project B — Median Salaries Comparison by Job Title
-![Data Model](/images/project_2.2.png)  
+![Data Model](/Images/project_2.2.png)  
 
 ### 4) Project B — Top 10 Skills by Job Title and Country
-![Pivot Report](/images/project_2.3.png)  
+![Pivot Report](/Images/project_2.3.png)  
 
 ### 5) Project B — Median Salary per Skill by Job Title
-![Pivot Report](/images/project_2.4.png)  
+![Pivot Report](/Images/project_2.4.png)  
 
 
 ## ✅ Conclusion
 
 This project highlights my progression from mastering foundational spreadsheet skills to advanced Excel data modeling, incorporating **Power Query** and **Power Pivot** to create a robust, dynamic analysis of the **data jobs market**. Through two consolidation projects, I demonstrated how to apply data cleaning, modeling, and visualization to generate meaningful insights for decision-making.
+
 
 
 
